@@ -1,12 +1,12 @@
 import React from "react";
-import Hero from "./components/Hero";
-import PopularProducts from "./components/PopularProducts";
-import SuperQuality from "./components/SuperQuality";
-import Services from "./components/Services";
-import SpecialOffer from "./components/SpecialOffer";
-import CustomerReviews from "./components/CustomerReviews";
-import Subscribe from "./components/Subscribe";
-import Footer from "./components/Footer";
+import Hero from "./sections/Hero";
+import PopularProducts from "./sections/PopularProducts";
+import SuperQuality from "./sections/SuperQuality";
+import Services from "./sections/Services";
+import SpecialOffer from "./sections/SpecialOffer";
+import CustomerReviews from "./sections/CustomerReviews";
+import Subscribe from "./sections/Subscribe";
+import Footer from "./sections/Footer";
 import Nav from "./components/Nav";
 
 export default function App() {
